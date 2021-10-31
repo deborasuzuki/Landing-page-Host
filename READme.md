@@ -23,4 +23,4 @@ HTML and CSS.
 
 See in:<a href="https://ds-hdchost.netlify.app/"> hDC Host</a>
 
-![project_view](https://github.com/deborasuzuki/Sunnyside-Agency/blob/main/Project%20View.png)
+![project_view](https://github.com/deborasuzuki/Landing-page-Host/blob/master/Project%20View.png)
